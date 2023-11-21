@@ -149,3 +149,10 @@ while pilihan != 6:
         keluar()
     else:
         print("Pilihan tidak valid. Silakan coba lagi.")
+
+# SCREENSHOT
+![lab5](https://github.com/Reardhyan/Lab5/assets/148032571/469256af-90eb-4a3b-a6cd-8f733116a1bf)
+![Screenshot (129)](https://github.com/Reardhyan/Lab5/assets/148032571/182d9ea7-0bd9-4231-927b-4ba48f678627)
+![Blank board - Page 1](https://github.com/Reardhyan/Lab5/assets/148032571/10a9bd41-829f-48eb-a5c7-a2cb24f7f93a)
+
+
